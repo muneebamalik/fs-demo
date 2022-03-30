@@ -20,7 +20,7 @@ app.get("/atmosphere" , (req,res) => {
                 pm25: "measure"
             },
             {
-                Oxygen: "concentration"
+                Oxygen: "accuracy"
             },
           
         ]
